@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+    <meta http-equiv="Expires" content="0"/>
+    <meta http-equiv="Last-modified" content="0"/>
+    <meta http-equiv="Cache-control" content="no-cache, must-revalidate"/>
+    <meta http-equiv="Pragma" content="no-cache"/>
+    <meta name="verify-v1" content="tq0q5qkYZ6nOEjsAEybl4woK4+2UtX5x5+LP06UuWtg=" />
+
+    <meta name="Description" content="Kern Ramble: Official Website" />
+
+
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+
+    <title>{{ .Title }}</title>
+
+  </head>
+
+
+  <body>
+
+  <div class="container">
+
+    <div id="header" class="row">
+
+    <div class="col-md-8">
+      <h1 id="logo">
+        <!-- kern logo -->
+        <a href="/">
+          <img alt="Kern Ramble logo image" src="/images/kern-logo.gif"  border="0">
+        </a>
+        <!-- end kern logo -->
+      </h1>
+    </div>
+
+  </div>
+
+
+  <div id="content" class="row">
+    {{- block "content" . }}{{- end }}
+  </div><!-- end content -->
+  </div><!-- end container -->
+
+  {{ template "_internal/google_analytics_async.html" . }}
+
+</body>
+</html>

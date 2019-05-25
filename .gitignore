@@ -1,4 +1,6 @@
 public/
 .envrc
 .tool-versions
+TODO
+deploy.sh
 
