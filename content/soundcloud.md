@@ -41,24 +41,13 @@ title = "Kern Ramble:Official Website - Soundcloud Music"
 </div>
 
 <div class="row">
-  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
-    <h3>
-      <a href="/soundcloud/tobacco_bw"><span itemprop="name">Life of a Tobacco Fiend (b&w version)</span></a>
-    </h3>
-    <div><a href="/soundcloud/tobacco_bw"><img src="/images/tobacco_cover_bw.png" width="325"></a></div>
-  </div>
  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
     <h3>
       <a href="/soundcloud/simmer"><span itemprop="name">Simmer & Stir (Again)</span></a>
     </h3>
     <div><a href="/soundcloud/simmer"><img src="/images/simmer.png" width="325"></a></div> 
   </div>
-  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
-    <h3>
-      <a href="/soundcloud/nashville"><span itemprop="name">Welcome to Nashville (Redux)</span></a>
-    </h3> 
-    <div><a href="/soundcloud/nashville"><img src="/images/nashville.png" width="325"></a></div>
-  </div>
+
 </div>
 
 

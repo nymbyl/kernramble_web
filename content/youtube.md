@@ -31,16 +31,6 @@ title = "Kern Ramble:Official Website - YouTube Videos"
 
 </div>
 <div class="row">
-
-  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicPlaylist">
-    <h3><a href="/youtube/tobacco_bw"><span itemprop="name">Life of a Tobacco Fiend (b&w version)</span></a></h3>
-    <div><a href="/youtube/tobacco_bw"><img src="/images/tobacco_cover_bw.png" width="325"></a></div>
-  </div>
-
-  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicPlaylist">
-    <h3><a href="/youtube/crossing"><span itemprop="name">Crossing the Fog Line</span></a></h3>
-    <div><a href="/youtube/crossing"><img src="/images/crossing_cover.jpg" width="325"></a></div>
-  </div>
   
   <div class="col-md-4" itemscope itemtype="http://schema.org/MusicPlaylist">
     <h3><a href="/youtube/simmer_again">Simmer & Stir Again</span></a></h3>
@@ -50,11 +40,6 @@ title = "Kern Ramble:Official Website - YouTube Videos"
 </div>
 
 <div class="row">
-
-  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
-    <h3><a href="/youtube/nashville"><span itemprop="name">Welcome to Nashville (Redux)</span></a></h3>
-    <div><a href="/youtube/nashville"><img src="/images/nashville.png" width="325"></a></div>
-  </div>
   <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
     <h3><a href="/youtube/mizmaze"><span itemprop="name">Mizmaze</span></a></h3>
     <div><a href="/youtube/mizmaze"><img src="/images/mizmaze.gif"></a></div>
