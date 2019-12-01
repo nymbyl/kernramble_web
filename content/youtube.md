@@ -5,24 +5,20 @@ title = "Kern Ramble:Official Website - YouTube Videos"
 
 +++
 
-
 <h2>YouTube Music</h2>
 
 <script src="https://apis.google.com/js/platform.js"></script>
 
 <div class="g-ytsubscribe" data-channel="kernramble" data-layout="default" data-count="default"></div>
 
+<h3>Latest</h3>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=KernRamble" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Archives</h3>
+
 <div class="row">
-
-  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicPlaylist">
-    <h3><a href="/youtube/nashville_new"><span itemprop="name">Welcome *Back* to Nashville</span></a></h3>
-    <div><a href="/youtube/nashville_new"><img src="/images/nashville_cover_1000.png" width="325"></a></div>
-  </div>
-
-  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicPlaylist">
-    <h3><a href="/youtube/tobacco"><span itemprop="name">Life of a Tobacco Fiend (in color)</span></a></h3>
-    <div><a href="/youtube/tobacco"><img src="/images/tobacco_cover.png" width="325"></a></div>
-  </div>
   
   <div class="col-md-4" itemscope itemtype="http://schema.org/MusicPlaylist">
     <h3><a href="/youtube/crossing_third"><span itemprop="name">Crossing the Fog Line (3rd time) - Alt Mix</span></a></h3>
