@@ -5,8 +5,6 @@ title = "Kern Ramble:Official Website - Contact Information"
 
 +++
 
-
-
 <h2>Contact</h2>
 
 <div itemscope itemtype="http://schema.org/Person">

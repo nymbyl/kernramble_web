@@ -5,8 +5,6 @@ title = "Kern Ramble:Official Website - Latest Recordings"
 
 +++
 
-
-
 <div itemscope itemtype="http://schema.org/MusicPlaylist">
 
   <h2><span itemprop="name">Latest Recordings</span> (Soundcloud)</h2>
