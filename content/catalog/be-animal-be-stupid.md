@@ -1,4 +1,3 @@
-
 ---
 title: Be Animal, Be Stupid
 name: "Be Animal, Be Stupid"

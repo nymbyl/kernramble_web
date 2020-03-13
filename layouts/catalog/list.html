@@ -7,7 +7,6 @@
     <tr>
       <th>Name</th>
       <th>Album</th>
-      <th>Composer(s)</th>
       <th>Year</th>
       <th></th>
     </tr>
@@ -17,7 +16,6 @@
     <tr>
       <td><a href="{{ .Permalink }}">{{ .Params.Name }}</a></td>
       <td>{{ .Params.Album }}</td>
-      <td>{{ .Params.Composer }}</td>
       <td>{{ .Params.Year }}</td>
       <td>{{ if .Params.Recordings }}&#10004;{{ end }}
       </td>
