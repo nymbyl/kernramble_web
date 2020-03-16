@@ -1,4 +1,3 @@
-
 ---
 title: The Mississippi
 name: "The Mississippi"
