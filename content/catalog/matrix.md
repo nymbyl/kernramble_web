@@ -14,3 +14,9 @@ recordings: true
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121319469&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <p>Changed name to <b>MWFF</b> because of the movie</p>
+
+<h4>1990</h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecTsTEwEVHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h4>1988</h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X2HDOeauNNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
