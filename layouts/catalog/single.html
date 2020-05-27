@@ -17,13 +17,52 @@
         <td>{{ .Params.Composer }}</td>
     </tr>
     <tr>
-        <th>Year</th>
+        <th>Written</th>
         <td>{{ .Params.Year }}</td>
     </tr>
   </tbody>
 </table>
 
+{{ with .Params.recordingz }}
+
+  {{ if gt (len . ) 0 }}
+
+    {{ range first 1 . }}
+    <h2>Favorite Recording {{ .year }}</h2>
+      {{ partial "recording.html" . }}
+    {{ end }}<!-- end range -->
+
+  {{ end }}<!-- end gt -->
+
+{{ end }}<!-- end with -->
+
+<div class="content">
 {{ .Content }}
+</div>
+
+{{ with .Params.recordingz }}
+
+  {{ if gt (len .) 1 }}
+  <hr/>
+  <h2>Other Recordings</h2>
+    {{ $recordings := after 1 . }}
+    {{ $years := slice }}
+    {{ range $recordings }}
+	{{ $years = $years | append .year }}
+    {{ end }}
+    {{ $years = uniq $years | sort  }}
+    {{ $years = (sort $years . "desc") }}
+
+    {{ range $years }}
+    {{ $year := . }}
+    <h4>{{ . }}</h4>
+
+    {{ range where $recordings "year" $year }}
+      {{ partial "recording.html" . }}
+     {{ end }}<!-- end range -->
+     {{ end }}<!-- end range years -->
+    {{ end }}<!-- end gt -->
+  {{ end }}<!-- end with -->
 
 {{ end }}
 

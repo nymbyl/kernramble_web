@@ -4,15 +4,16 @@ name: "Scarecrow Don't Scare Anymore"
 year:  2013
 album: Crossing the Fog Line
 composer: Rob Nelson
-recordings: true
+recordingz:
+  - year: 2019
+    source: soundcloud
+    id: 710822014
+  - year: 2020
+    source: youtube
+    id: Y3ZpgAO3hs8
+  - year: 2015
+    source: soundcloud
+    id: 173433628
+
 ---
 
-<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/710822014&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
-<hr/>
-<h3>Recordings</h3>
-
-<h4>2020</h4>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/710822014&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-<h4>2015</h4>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/173433628&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

@@ -4,22 +4,19 @@ name: "Work My Bargain"
 year:  2016
 album: The Life of a Tobacco Fiend
 composer: Rob Nelson
-recordings: true
+recordingz:
+  - year: 2018
+    source: soundcloud
+    id: 320571439
+  - year: 2020
+    source: soundcloud
+    id: 721449445
+  - year: 2017
+    source: soundcloud
+    id: 298913793
+  - year: 2016
+    source: soundcloud
+    id: 227865301
+ 
 ---
-<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/320571439&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
-<hr/>
-<h3>Recordings</h3>
 
-<h4>2020</h4>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/721449445&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-<h4>2018</h4>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/320571439&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-<h4>2017</h4>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298913793&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-<h4>2016</h4>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/227865301&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

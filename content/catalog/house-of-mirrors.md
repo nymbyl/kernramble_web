@@ -6,6 +6,5 @@ album: Walter Klang lost
 composer: Rob Nelson
 ---
 
-<h3>Lost</h3>
-
+**NOTE** lost all recordings of this song
 

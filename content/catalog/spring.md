@@ -4,12 +4,11 @@ name: "Spring"
 year:  1992
 album: The Turbulent Movement of Fluids
 composer: Rob Nelson
-recordings: true
+recordingz:
+  - year: 1991
+    source: youtube
+    id: dcAQ45hiOTg
+ 
 ---
 
-<h3>Recordings</h3>
-
-<h4>1991</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dcAQ45hiOTg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p>Instrumental</p>
+Instrumental

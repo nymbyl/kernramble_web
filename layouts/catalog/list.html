@@ -7,17 +7,25 @@
     <tr>
       <th>Name</th>
       <th>Album</th>
-      <th>Year</th>
-      <th></th>
+      <th>Written</th>
+      <th>Latest</th>
     </tr>
   </thead>
   <tbody>
+  {{ $.Scratch.Set "counter" 0 }}
   {{ range .Data.Pages.ByTitle }}
-    <tr>
+     {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+    <tr data-number="{{$.Scratch.Get "counter"}}">
       <td><a href="{{ .Permalink }}">{{ .Params.Name }}</a></td>
       <td>{{ .Params.Album }}</td>
       <td>{{ .Params.Year }}</td>
-      <td>{{ if .Params.Recordings }}&#10004;{{ end }}
+      <td>
+       {{ with .Params.Recordingz }}
+          {{ $sorted := (sort  . "year" "desc") }}
+          {{ range first 1 $sorted }}
+            {{ .year }}
+          {{ end }}
+      {{ end }}
       </td>
     </tr>
   {{ end }}
@@ -25,4 +33,5 @@
 </table>
 
 {{ end }} 
+
 

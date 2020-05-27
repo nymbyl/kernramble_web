@@ -4,18 +4,14 @@ name: "Candle"
 year:  1994
 album: 
 composer: Rob Nelson
-recordings: true
+recordingz:
+  - year: 2014
+    source: soundcloud
+    id: 104204818
+  - year: 2007
+    source: youtube
+    id: DY8sbLbGVaE
+
+
 ---
-
-<h3>Recordings</h3>
-
-<h4>2014</h4>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/104204818&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-https://soundcloud.com/kernramble/candle
-
-<h4>2007</h4>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DY8sbLbGVaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

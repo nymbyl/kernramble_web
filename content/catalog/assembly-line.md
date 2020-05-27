@@ -4,13 +4,12 @@ name: "Assembly Line"
 year:  1988
 album: Motion Sickness
 composer: Rob Nelson
-recordings: true
+recordingz:
+  - year: 1990
+    source: youtube
+    id: AAdZqo_xUvU
+  - year: 1988
+    source: youtube
+    id: hKyHdyES7lo
 ---
 
-<h3>Recordings</h3>
-
-<h4>1990</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AAdZqo_xUvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<h4>1988</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hKyHdyES7lo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -4,13 +4,13 @@ name: "Strange Friends"
 year:  1992
 album: The Book of Two Ways
 composer: Rob Nelson
-recordings: true
+recordingz:
+  - year: 2002
+    source: youtube
+    id: 1Ag2GdVOnqE
+  - year: 1995
+    source: youtube
+    id: TIH_EOQRcz8
+ 
 ---
 
-<h3>Recordings</h3>
-
-<h4>2004</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Ag2GdVOnqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<h4>1995</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TIH_EOQRcz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

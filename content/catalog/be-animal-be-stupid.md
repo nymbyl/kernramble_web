@@ -4,14 +4,14 @@ name: "Be Animal, Be Stupid"
 year:  1988
 album: Motion Sickness
 composer: Rob Nelson
-recordings: true
+recordingz:
+  - year: 1990
+    source: youtube
+    id: 0keqrYH4Hko 
+  - year: 1988
+    source: youtube
+    id: siy31CE7OGI
+
 ---
 
-<h3>Recordings</h3>
-
-<h4>1990</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0keqrYH4Hko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<h4>1988</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/siy31CE7OGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

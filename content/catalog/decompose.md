@@ -4,11 +4,10 @@ name: "Decompose"
 year:  1991
 album: The Book of Two Ways
 composer: Rob Nelson
-recordings: true
+recordingz:
+  - year: 2002
+    source: youtube
+    id: tDV94EvXR_M
+ 
 ---
 
-<h3>Recordings</h3>
-
-<h4>2002</h4>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tDV94EvXR_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

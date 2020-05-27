@@ -4,13 +4,13 @@ name: "If God Willing and the Creek Don't Rise"
 year:  1996
 album: 
 composer: Rob Nelson
-recordings: true
+recordingz:
+  - year: 1996
+    source: youtube
+    id: aRk0IK9pH1E
+
 ---
 
-<h3>Recordings</h3>
-
-<h4>1996</h4>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRk0IK9pH1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This is painfully bad - but there it is
 
 

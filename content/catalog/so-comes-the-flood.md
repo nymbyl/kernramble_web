@@ -4,25 +4,23 @@ name: "So Comes the Flood"
 year:  2013
 album: Crossing the Fog Line
 composer: Rob Nelson
-recordings: true
+recordingz:
+  - year: 2019
+    source: soundcloud
+    id: 715707439
+  - year: 2020
+    source: youtube
+    id: w573XWnqsN0
+  - year: 2016
+    source: soundcloud
+    id: 202728270
+  - year: 2014
+    source: soundcloud
+    id: 136435109
+  - year: 2013
+    source: youtube 
+    id: iRWlSfeT_q4
+
 ---
 
-<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/715707439&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
-
-<hr/>
-<h3>Recordings</h3>
-
-<h4>2020</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w573XWnqsN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/715707439&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-<h4>2016</h4>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/202728270&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-<h4>2014</h4>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/136435109&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-<h4>2013</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iRWlSfeT_q4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

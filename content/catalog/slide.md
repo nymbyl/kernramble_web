@@ -4,10 +4,10 @@ name: "Slide"
 year:  1992
 album: The Book of Two Ways
 composer: Rob Nelson
-recordings: true
+recordingz:
+  - year: 2002
+    source: youtube
+    id: gRhDm3zG7UM
+ 
 ---
 
-<h3>Recordings</h3>
-
-<h4>2002</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gRhDm3zG7UM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
