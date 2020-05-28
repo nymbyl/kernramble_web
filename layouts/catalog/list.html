@@ -1,4 +1,40 @@
 {{ define "content" }}
+
+<!--
+https://stackoverflow.com/questions/14267781/sorting-html-table-with-javascript
+NOTE: i don't care about IE
+-->
+<script type="application/javascript">
+window.onload = function(){
+
+  const getCellValue = (tr, idx) => tr.children[idx].innerText || tr.children[idx].textContent;
+
+  const comparer = (idx, asc) => (a, b) => ((v1, v2) => 
+    v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : v1.toString().localeCompare(v2)
+    )(getCellValue(asc ? a : b, idx), getCellValue(asc ? b : a, idx));
+
+  // do the work...
+  document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() => {
+
+  const table = th.closest('table');
+  const tbody = table.querySelector('tbody');
+  Array.from(tbody.querySelectorAll('tr'))
+    .sort(comparer(Array.from(th.parentNode.children).indexOf(th), this.asc = !this.asc))
+    .forEach(tr => tbody.appendChild(tr) );
+  })));
+};
+
+</script>
+
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+th {
+    cursor: pointer;
+}
+</style>
+
 <h2>Songs</h2>
 <div>Total Count: {{ len .Data.Pages }}</div>
 

@@ -2,7 +2,7 @@
 title: I'm Your Shadow
 name: "I'm Your Shadow"
 year:  2020
-album: 
+album: [Waltz (provisional)]
 composer: Rob Nelson
 recordingz:
   - year: 2020

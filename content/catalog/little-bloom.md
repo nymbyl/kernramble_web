@@ -2,7 +2,7 @@
 title: Little Bloom
 name: "Little Bloom"
 year:  2020
-album: 
+album: [Waltz (provisional)]
 composer: Rob Nelson
 recordingz:
   - year: 2020

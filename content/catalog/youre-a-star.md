@@ -2,7 +2,7 @@
 title: You're a Star
 name: "You're a Star"
 year:  2020
-album: 
+album: [Waltz (provisional)]
 composer: Rob Nelson
 recordingz:
   - year: 2020
