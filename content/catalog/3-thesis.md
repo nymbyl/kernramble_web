@@ -5,7 +5,6 @@ name: "#3 Thesis"
 year:  1987
 album: The Ten Conviences
 composer: Rob Nelson
-
 recordingz:
   - year: 2020
     source: youtube

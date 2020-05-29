@@ -27,8 +27,17 @@
 
   {{ if gt (len . ) 0 }}
 
+    <h2>
+      {{ if gt (len .) 1 }} 
+      Favorite 
+      {{ else }} 
+      Only 
+      {{ end }} 
+      Recording 
+    </h2>
+ 
     {{ range first 1 . }}
-    <h2>Favorite Recording {{ .year }}</h2>
+      <h3> {{ .year }} </h3>
       {{ partial "recording.html" . }}
     {{ end }}<!-- end range -->
 
@@ -55,7 +64,7 @@
 
     {{ range $years }}
     {{ $year := . }}
-    <h4>{{ . }}</h4>
+    <h3>{{ . }}</h3>
 
     {{ range where $recordings "year" $year }}
       {{ partial "recording.html" . }}
