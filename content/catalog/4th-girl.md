@@ -5,6 +5,9 @@ year:  2006
 album: Walter Klang era 2
 composer: Chad Himmel, Mike Marbut, Rob Nelson
 recordingz:
+  - year: 2020
+    source: soundcloud
+    id: 847682314
   - year: 2006
     source: walterklang
     id: https://walterklang.com/mp3/2006-11-18/4th%20girl/4th%20girl_vocals.mp3
@@ -34,5 +37,4 @@ recordingz:
     id: http://walterklang.com/mp3/2006-11-18/4th%20girl/4th%20girl_vocals.mp3
  
 ---
-
 
