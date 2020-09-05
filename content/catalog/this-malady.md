@@ -2,7 +2,7 @@
 title: This Malady
 name: "This Malady"
 year:  2020
-album: 	[Waltz (provisional)]
+album: Daedalus and Melodie
 composer: Rob Nelson
 recordingz:
   - year: 2020

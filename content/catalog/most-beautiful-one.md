@@ -2,7 +2,7 @@
 title: The Most Beautiful One of All
 name: "The Most Beautiful One of All"
 year:  2020
-album: [Waltz (provisional)]
+album: Daedalus and Melodie
 composer: Rob Nelson
 recordingz:
   - year: 2020

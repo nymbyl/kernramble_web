@@ -2,7 +2,7 @@
 title: The Novelty of You and Me
 name: "The Novelty of You and Me"
 year:  2020
-album: [Waltz (provisional)]
+album: Daedalus and Melodie
 composer: Rob Nelson
 recordingz:
   - year: 2020

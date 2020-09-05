@@ -2,7 +2,7 @@
 title: Small Room
 name: "Small Room"
 year:  2020
-album: [Waltz (provisional)]
+album: Daedalus and Melodie
 composer: Rob Nelson
 recordingz:
   - year: 2020
