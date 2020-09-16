@@ -2,7 +2,7 @@
 title: Crazy Is
 name: "Crazy Is"
 year:  2020
-album: Daedalus and Melodie
+album: Melodie and Daedalus
 composer: Rob Nelson
 recordingz:
   - year: 2020

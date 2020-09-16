@@ -2,7 +2,7 @@
 title: I'm Your Shadow
 name: "I'm Your Shadow"
 year:  2020
-album: Daedalus and Melodie
+album: Melodie and Daedalus
 composer: Rob Nelson
 recordingz:
   - year: 2020
