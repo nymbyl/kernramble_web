@@ -2,7 +2,7 @@
 title: Drifting in Smoke
 name: "Drifting in Smoke"
 year:  2020
-album: Melodie and Daedalus
+album: Mélodie and Dædalus
 composer: Rob Nelson
 recordingz:
   - year: 2020

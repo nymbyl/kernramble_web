@@ -2,7 +2,7 @@
 title: This Malady
 name: "This Malady"
 year:  2020
-album: Melodie and Daedalus
+album: Mélodie and Dædalus
 composer: Rob Nelson
 recordingz:
   - year: 2020
