@@ -16,6 +16,14 @@
    </audio>
  </div>
 
+{{ else if eq .source "kernramble" }}
+ <div>
+   <audio controls>
+     <source src="{{ .id }}" type="audio/mpeg">
+     <a href="{{ .id }}">{{ .id }}</a>
+   </audio>
+ </div>
+
 {{ else }}
   <p>Unknown type</p>
 {{ end }}    
