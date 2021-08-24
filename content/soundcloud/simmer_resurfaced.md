@@ -1,7 +1,7 @@
 +++
-date = "2021-09-09T18:36:33-04:00"
+date = "2021-08-21T18:36:33-04:00"
 draft = false
-title = "Kern Ramble:Official Website - Soundcloud Music/Simmer & Stir (Resurfaced)" 
+title = "Kern Ramble:Official Website - Soundcloud Music/Simmer &amp; Stir (Resurfaced)" 
 
 +++
 

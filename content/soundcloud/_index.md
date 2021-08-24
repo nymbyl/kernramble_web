@@ -9,7 +9,15 @@ title = "Kern Ramble:Official Website - Soundcloud Music"
 <h2>Soundcloud Music</h2>
 
 <div class="row">
-  
+ 
+  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
+    <h3>
+      <a href="/soundcloud/simmer_resurfaced"><span itemprop="name">Simmer & Stir (Resurfaced)</span></a>
+    </h3>
+    <div><a href="/soundcloud/simmer_resurfaced"><img src="/images/simmer-resurfaced-500x500.jpg" width="325"></a></div>
+  </div>
+
+
   <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
     <h3>
       <a href="/soundcloud/melody"><span itemprop="name">Mélodie and Dædalus</span></a>
@@ -24,14 +32,6 @@ title = "Kern Ramble:Official Website - Soundcloud Music"
     </h3>
     <div><a href="/soundcloud/artificial_clock"><img src="/images/artificial_clock_cover_1000.png" width="325"></a></div>
   </div>
-
-  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
-    <h3>
-      <a href="/soundcloud/crossing_reverse"><span itemprop="name">Crossing the Fog Line (in Reverse)</span></a>
-    </h3>
-    <div><a href="/soundcloud/crossing_reverse"><img src="/images/crossing-reverse-500x500.jpg" width="325"></a></div>
-  </div>
-
 
 </div>
 
@@ -59,7 +59,16 @@ title = "Kern Ramble:Official Website - Soundcloud Music"
 </div>
 
 <div class="row">
- <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
+ 
+  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
+    <h3>
+      <a href="/soundcloud/crossing_reverse"><span itemprop="name">Crossing the Fog Line (in Reverse)</span></a>
+    </h3>
+    <div><a href="/soundcloud/crossing_reverse"><img src="/images/crossing-reverse-500x500.jpg" width="325"></a></div>
+  </div>
+
+
+  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
     <h3>
       <a href="/soundcloud/simmer"><span itemprop="name">Simmer & Stir (Again)</span></a>
     </h3>

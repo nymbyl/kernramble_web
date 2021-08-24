@@ -5,6 +5,9 @@ year:  2001
 album: Simmer & Stir version 2
 composer: Rob Nelson
 recordingz:
+  - year: 2021
+    source: soundcloud
+    id: 1085462224 
   - year: 2015
     source: soundcloud
     id: 178899146
@@ -14,4 +17,5 @@ recordingz:
 
 ---
 
-Originally just called 'The Lurker'
+Originally called 'The Lurker', then 'The Lurkers Plot", now 'The Lurker Plots'
+
