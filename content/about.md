@@ -160,7 +160,7 @@ The story outline
 
 10. The Toil of my Work
 
-    The oldest son tracks down the protagonists. He explains to his son why he has done what he's done, but that he has not been a particularly good person
+    The oldest son tracks down the protagonist. He explains to his son why he has done what he's done, but that he has not been a particularly good person
 
 11. Hit the Paydirt
 
