@@ -26,6 +26,7 @@ title: "Kern Ramble:Official Website"
         <li id="store" class="list-group-item"><a href="/youtube/" alt="Store">YouTube Music</a></li>
         <li id="contact" class="list-group-item"><a href="/contact" alt="Contact">Contact Info</a></li>
         <li id="catalog" class="list-group-item"><a href="/catalog/" alt="Catalog">Catalog</a></li>
+        <li id="about" class="list-group-item"><a href="/about/" alt="About">About</a></li>
     </ul>
 
   </div>
