@@ -21,15 +21,20 @@ they are degraded mixes, but all I have
 ## Narrative Song-Cycle
 
 Several of my records are self-described as a "narrative song-cycle".  This is not a
-widely use idea, so I thought I would explain: The idea is that they tell a story 
-in a series of songs
+widely used idea.  It may vary per person, my definition would be: 
 
-Each song is a snapshot of time within the story, and a sketch of the feeling
-at the time.  So rather than being a strictly, "this happened, then this happened..."
+"Narrative Song Cycle" 
+ : a set of songs that, grouped together, tell a story, or imply an underlying story.  They
+   do not have to be in chronological order, and they do not have to spell out each event 
+
+So each song is a snapshot of time within the story, and a sketch of the feeling
+at the time, rather than being a strictly "this happened, then this happened..."
 means of telling the story.  It's more up to the listener to piece it together
 
 The idea though is that each song can stand on it's own, seperate, or as part of the
-series.  Each song is both independent, and also serving the larger story
+series.  Each song is both independent, and also serving the larger story.  Just like
+memorable moments in your own life are relatable to everyone regardless of how it fits
+into your life story
 
 ### Examples
 
@@ -37,7 +42,8 @@ This is maybe hard to imagine, so I'll explain a possible story behind the three
 albums I've done like that. They are not supposed to be limited to any specific story.
 Rather, imagine a story that pieces together the facts and the feelings, and you'll have
 another story.  There are many different ways to interpret, and weave together, this is 
-just one of those possiblities. I could list others
+just one of those possiblities. I could list others - but there could be commonalities
+in the number of characters and the mood
 
 #### Artificial Clock-maker
 
@@ -55,7 +61,7 @@ The story outline
 
 2. Underground
 
-   He encourages followers, leads a movement - many follow "underground"
+   He encourages followers, leads a movement of sorts - many follow "underground"
 
 3. It would be Lovely
 
@@ -71,39 +77,39 @@ The story outline
 
 6. Motion Picture
 
-   The antagonist rapes April - and publishes it on social media (this can be thought of as trafficking).  This could be thought of a psychological sexual assault, more than necessarily physical
+   The antagonist assaults April - and publishes it publicly (this can be thought of as trafficking).  It may very well be a psychological sexual assault, more than necessarily physical
 
 7. Have to Be Alone
 
-   She tells hero to go away to desert, instead of taking revenge.  She has to be alone as well.  It is time for a spiritual heal
+   She tells the hero to go away to desert, instead of taking some steps for revenge.  She has to be alone as well.  It is time for a spiritual heal, to purge. He is destined for great things
 
 8. You Make Things Interesting
 
    He contemplates things in desert - realizes he loves the heroine (could also be god, or the natural world as well)
 
-9. For Seven Year
+9. For Seven Years
 
    He has spent seven years in the desert. From much time in desert, hero notices that world is fucked up.  This can be thought of as analagous to Jesus
 
 10. You Can Disappear
 
-    He comes back to the populous world to challenge the antagonist.  This is problematic, because he knows the hero will be doing that, and has since acculated much prestige.  The heroine offers him a place to hide
+    Our hero comes back to the populated world to change things. It is a dangerous place for him because the world is is a state of much surveillance (mirroring the warning in the first song). The heroine offers him a place to hide
 
 11. Like Stained Glass
 
-    He realizes she (his love) is miserable - ptsd - the world etc...
+    He realizes she (his love) is miserable, sad - in a state of post traumatic stress.  There is not much he can do.  In a way he is the same way though.  He just breaks in different ways
 
 12. Assassins or Thieves
 
-    And also begins to see that no one is any good in this world anyway.  It is a choice of befriending or taking sides with two non-good choices
+    He begins to see that not many people are any good in this world anyway.  It is a choice of befriending or taking sides with two non-good choices
 
 13. The Impossible Task
 
-    So he must "kill" the antagonist, challenge him publically, destroy him - plots it out - not easy
+    So he must "kill" the antagonist, challenge him publically, destroy him. He plots it out, he will speak for the first time.  It is not easy
 
 14. I'm Finished? 
 
-    He does accomplish the task, but is sentenced and killed because of it.  But in some ways he lives on
+    He does accomplish the task, but is sentenced to death because of it - and in that sense, is defeated. But still lives on after death. Although it is feasible he did something violent, I would not think of the character as a violent person to be condemned.  It is the fates
 
 
 #### Life of a Tobacco Fiend
@@ -118,15 +124,16 @@ The story outline
 
 1. It's Freezing
 
-  He is stationed in alaska, world war II - thinks of Eloise - cold life - low station
+   He is stationed in Alaska, World War II - thinks of Eloise - cold life - low station in the world
 
 2. Being a Proposal of Marriage
 
-  He comes back to the country, and the town - she gets pregant - they marry. He's taken with her but is young, a bit foolish
+   He comes back to the country, and the town - she gets pregant - they marry. He's taken with her but is young, a bit foolish
 
 3. Threnody for the First Born
 
    First child dies - she is a little messed up by that psychologically
+
 4. It Took a Thousand Men
 
    He works odd jobs - to make a living (using earth) - joins society (in a way).  As part of the collective work force - loses a bit of his identity
@@ -174,12 +181,12 @@ The story outline
 
 #### Mélodie and Dædalus
 
-Only 2 characters in this one (except an implied child) - Sid and Nancy-ish tale of love.  These songs differ in that each song is song by one or the other characters (indicated by [male] or [female])
+Only 2 characters in this one (except an implied child) - Sid and Nancy-ish tale of love.  These songs differ in that each song is sung by one or the other characters (indicated by [male] or [female])
 
 1. Daedalus - He is in air - clearly flies too high and dies - expectations - famous
 2. Melodie - She is a wayward melody - drifts, chaotic, crazy (melody, malady) - famous too
 
-During this story both characters have the ability to see into the future a bit. There is a timeless quality at time.  Although the story is also in chronological order
+During this story both characters have the ability to see into the future a bit. There is a timeless quality at times.  Although the story is also in chronological order, starting when they meet
 
 The story outline
 
@@ -189,11 +196,11 @@ The story outline
 
 2. The Summertime
 
-   It's summer - nothing to worry about, they laze about [female]
+   It's summer - nothing to worry about, they laze about and talk [female]
 
 3. Your Great War 
 
-   There is a war - maybe he'll have to go - doens't want to [male]
+   There is a war going on - maybe he'll have to go - doesn't want to [male]
 
 4. The Novelty of You and Me
 
@@ -217,7 +224,7 @@ The story outline
 
 9. Crazy Is
 
-   He thinks she is crazy - and perhaps she is.  The affair was possibly imaginary, there may not be an airplan flight instructor at all [male]
+   He thinks she is crazy - and perhaps she is.  The affair was possibly imaginary, there may not be an airplane flight instructor at all [male]
 
 10. Rot. In. Hell.
 
@@ -227,9 +234,9 @@ The story outline
  
     He dreams they are drowning - things not going well - they are drowning in different ways, and increasingly alone in the world (for different reasons) [male]
 
-12. I'm Your Shadown
+12. I'm Your Shadow
 
-    Since she is (in theory) crazy - and it's a time in the past - she is shipped off to asylum.  But she reminds him she will always be there in his mind [female]
+    Since she is (in theory) crazy - and this story takes place in another time historically - she is shipped off to asylum. As was done at times in the past. But she reminds him she will always be there in his mind [female]
 
 13. My Little Bloom
 
@@ -237,14 +244,14 @@ The story outline
 
 14. This Malady
 
-    As the asylum turns the screws, so to speak, she is even more crazy - but maybe the world is the one that is crazy (this is a time in the past) [female]
+    As the asylum turns the screws, so to speak, she is even more crazy - but maybe the world is the one that is crazy (remember this is a time in the past, so that would have been more likely) [female]
 
-15. Unfinshed Novel
+15. Unfinished Novel
 
     He makes one more appearance - as he is dying.  He has not finished or resolved anything, is kind of in ruin - still loves her, realizes he's done her wrong in many ways [male]
 
 16. Small Room
 
-    She is still in asylum - misses him - trying to piece together what happened.  She knows he has died.  Perhaps he really killed himself.  She has charitable thoughts of him.  She ill eventually die there in a fire.  And she knows that [female]
+    She is still in asylum - misses him - trying to piece together what happened.  She knows he has died.  Perhaps he really killed himself.  She has charitable thoughts of him.  She will eventually die there in a fire.  And she knows that.  But is a nice place, where she can paint - it's simple, uncluttered [female]
 
 
