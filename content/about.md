@@ -24,8 +24,8 @@ Several of my records are self-described as a "narrative song-cycle".  This is n
 widely used idea.  It may vary per person, my definition would be: 
 
 "Narrative Song Cycle" 
- : a set of songs that, grouped together, tell a story, or imply an underlying story.  They
-   do not have to be in chronological order, and they do not have to spell out each event 
+: a set of songs that, grouped together, tell a story, or imply an underlying story.  They
+  do not have to be in chronological order, and they do not have to spell out each event 
 
 So each song is a snapshot of time within the story, and a sketch of the feeling
 at the time, rather than being a strictly "this happened, then this happened..."
