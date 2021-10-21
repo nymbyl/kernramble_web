@@ -49,7 +49,7 @@ in the number of characters and the mood
 
 There are 3 characters
 
-1. "April" (mary) - the heroine of the story, deaf
+1. "April" (Mary Magdalene) - the heroine of the story, deaf
 2. The protagonist ("hero" - Christ, loner, mute) - the clever "clock-maker"
 3. The antagonist ("villian" - Satan, leader, false prophet) - the fake "clock-maker" 
 
@@ -77,7 +77,7 @@ The story outline
 
 6. Motion Picture
 
-   The antagonist assaults April - and publishes it publicly (this can be thought of as trafficking).  It may very well be a psychological sexual assault, more than necessarily physical
+   The antagonist assaults April - and publishes it publicly (this can be thought of as trafficking).  It may be a psychological sexual assault, more than necessarily physical
 
 7. Have to Be Alone
 
@@ -128,15 +128,15 @@ The story outline
 
 2. Being a Proposal of Marriage
 
-   He comes back to the country, and the town - she gets pregant - they marry. He's taken with her but is young, a bit foolish
+   He comes back to the country, and the town - she gets pregnant - they marry. He's taken with her but is young, a bit foolish
 
 3. Threnody for the First Born
 
-   First child dies - she is a little messed up by that psychologically
+   First child dies - she is a little messed up by that psychologically from then on
 
 4. It Took a Thousand Men
 
-   He works odd jobs - to make a living (using earth) - joins society (in a way).  As part of the collective work force - loses a bit of his identity
+   He works odd jobs - to make a living (using the earth) - joins society (in a way).  As part of the collective work force - loses a bit of his identity
 
 5. Work My Bargain
    
