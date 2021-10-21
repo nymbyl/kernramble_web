@@ -220,11 +220,11 @@ The story outline
 
 8. Misfit, the Mechanical Bird
 
-   She has affair with airplane flight instructor.  She relates to him, or the airplane - and feels like a crazy misfit [female]
+   She has affair with airplane pilot.  She relates to him, or the airplane - and feels like a crazy misfit [female]
 
 9. Crazy Is
 
-   He thinks she is crazy - and perhaps she is.  The affair was possibly imaginary, there may not be an airplane flight instructor at all [male]
+   He thinks she is crazy - and perhaps she is.  The affair was possibly imaginary, there may not be an airplane pilot at all [male]
 
 10. Rot. In. Hell.
 
@@ -240,7 +240,7 @@ The story outline
 
 13. My Little Bloom
 
-    To the suprise of the audience, they have had a child somewhere in there - she is kind of an afterthought, they have both greatly neglected the child in their self-ish pursuits - but now she regrets things [female]
+    To the suprise of the audience, they have had a child somewhere in there - kind of an afterthought, they have both greatly neglected the child in their self-ish pursuits - but now she regrets things [female]
 
 14. This Malady
 
