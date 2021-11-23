@@ -5,6 +5,12 @@ year:  2013
 album: Crossing the Fog Line
 composer: Rob Nelson
 recordingz:
+  - year: 2021
+    source: soundcloud
+    id: 1135665640
+  - year: 2021
+    source: soundcloud
+    id: 1109151163
   - year: 2020
     source: soundcloud
     id: 709531219
