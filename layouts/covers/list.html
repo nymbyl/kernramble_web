@@ -42,10 +42,8 @@ th {
 <table class="table table-striped table-bordered table-sm">
   <thead>
     <tr>
-      <th></th>
       <th>Name</th>
-      <th>Album</th>
-      <th>Written</th>
+      <th>Composer</th>
       <th>Latest</th>
     </tr>
   </thead>
@@ -54,12 +52,8 @@ th {
   {{ range .Data.Pages.ByTitle }}
      {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
     <tr data-number="{{$.Scratch.Get "counter"}}">
-      <td>
-        {{ if not .Params.Ignore }}*{{ end }}
-      </td>
-      <td><a href="{{ .Permalink }}">{{ .Params.Name }}</a></td>
-      <td>{{ .Params.Album }}</td>
-      <td>{{ .Params.Year }}</td>
+      <td><a href="{{ .Permalink }}">{{ .Params.Title }}</a></td>
+      <td>{{ .Params.Composer }}</td>
       <td>
        {{ with .Params.Recordingz }}
           {{ $sorted := (sort  . "year" "desc") }}
@@ -76,10 +70,5 @@ th {
 
 <div>Total Recordings: {{ len $recordings }}</div>
 
-<div id="covers" class="list-group-item">
-  <a href="/covers/" alt="Covers">Covers</a>
-</div>
-  
 {{ end }} 
-
 

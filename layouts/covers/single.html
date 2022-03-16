@@ -1,0 +1,73 @@
+{{ define "content" }}
+
+<h2>{{ .Params.Title }}</h2>
+
+<table class="table table-striped table-bordered table-sm">
+  <tbody>
+    <tr>
+        <th>Name</th>
+        <td>{{ .Params.Name }}</td>
+    </tr>
+    <tr>
+        <th>Composer(s)</th>
+        <td>{{ .Params.Composer }}</td>
+    </tr>
+    <tr>
+        <th>Written</th>
+        <td>{{ .Params.Year }}</td>
+    </tr>
+  </tbody>
+</table>
+
+{{ with .Params.recordingz }}
+
+  {{ if gt (len . ) 0 }}
+
+    <h2>
+      {{ if gt (len .) 1 }} 
+      Favorite 
+      {{ else }} 
+      Only 
+      {{ end }} 
+      Recording 
+    </h2>
+ 
+    {{ range first 1 . }}
+      <h3> {{ .year }} </h3>
+      {{ partial "recording.html" . }}
+    {{ end }}<!-- end range -->
+
+  {{ end }}<!-- end gt -->
+
+{{ end }}<!-- end with -->
+
+<div class="content">
+{{ .Content }}
+</div>
+
+{{ with .Params.recordingz }}
+
+  {{ if gt (len .) 1 }}
+  <hr/>
+  <h2>Other Recordings</h2>
+    {{ $recordings := after 1 . }}
+    {{ $years := slice }}
+    {{ range $recordings }}
+	{{ $years = $years | append .year }}
+    {{ end }}
+    {{ $years = uniq $years | sort  }}
+    {{ $years = (sort $years . "desc") }}
+
+    {{ range $years }}
+    {{ $year := . }}
+    <h3>{{ . }}</h3>
+
+    {{ range where $recordings "year" $year }}
+      {{ partial "recording.html" . }}
+     {{ end }}<!-- end range -->
+     {{ end }}<!-- end range years -->
+    {{ end }}<!-- end gt -->
+  {{ end }}<!-- end with -->
+
+{{ end }}
+
