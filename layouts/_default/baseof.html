@@ -11,23 +11,22 @@
     <meta name="Description" content="Kern Ramble: Official Website" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="/css/output.css" rel="stylesheet" type="text/css" media="screen" />
 
     <title>{{ .Title }}</title>
 
   </head>
   <body>
 
-  <div class="container">
+  <div class="md:container md:mx-auto px-4">
+    <div id="header" class="flex pb-4">
 
-    <div id="header" class="row">
-
-    <div class="col-md-8">
+    <div class="flex-row">
       <h1 id="logo">
         <!-- kern logo -->
         <a href="/">
-          <img alt="Kern Ramble logo image" src="/images/kern-logo.gif"  border="0">
+          <img alt="Kern Ramble logo image" src="/images/kern-logo.gif" border="0">
         </a>
         <!-- end kern logo -->
       </h1>
@@ -36,7 +35,7 @@
   </div>
 
 
-  <div id="content" class="row">
+  <div id="content" class="prose prose-sm">
     {{- block "content" . }}{{- end }}
   </div><!-- end content -->
   </div><!-- end container -->

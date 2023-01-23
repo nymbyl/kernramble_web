@@ -5,9 +5,8 @@ title = "Kern Ramble:Official Website - Narrative Song-Cycle"
 
 +++
 
-## Kern Ramble
-
-The name "Kern Ramble" could be a person.  You might imagine someone that wanders from town to town
+The name "Kern Ramble" could be a person.  You might imagine someone that wanders from town to town. 
+It could also be a place, a gathering, or - as the case may be - a road
 
 I have generally been writing music and recording songs since 1988.  Although I wrote some 
 songs from 1982-1987 - I've lost all those recordings and forgotten them

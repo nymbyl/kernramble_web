@@ -5,19 +5,17 @@ title = "Kern Ramble:Official Website - Soundcloud Music"
 
 +++
 
-
 <h2>Soundcloud Music</h2>
 
-<div class="row">
-   
-  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
+<div class="grid grid-cols-3 gap-4">  
+  <div class="flex-wrap basis-1/3" itemscope itemtype="http://schema.org/MusicAlbum">
     <h3>
       <a href="/soundcloud/pitch"><span itemprop="name">Pitch: A Morality Play</span></a>
     </h3>
     <div><a href="/soundcloud/crossing_2022"><img src="/images/pitch-500x500.jpg" width="325"></a></div>
   </div>
  
-  <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
+  <div class="flex-wrap" itemscope itemtype="http://schema.org/MusicAlbum">
     <h3>
       <a href="/soundcloud/crossing_2022"><span itemprop="name">Crossing the Fogline (into 2022)</span></a>
     </h3>
@@ -32,9 +30,6 @@ title = "Kern Ramble:Official Website - Soundcloud Music"
   </div>
 
 
-</div>
-
-<div class="row">
  
   <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
     <h3>
@@ -57,9 +52,6 @@ title = "Kern Ramble:Official Website - Soundcloud Music"
     <div><a href="/soundcloud/nashville_new"><img src="/images/nashville_cover_1000.png" width="325"></a></div>
   </div>
 
-</div>
-
-<div class="row">
 
   <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
     <h3>
@@ -82,9 +74,7 @@ title = "Kern Ramble:Official Website - Soundcloud Music"
     <div><a href="/soundcloud/crossing_reverse"><img src="/images/crossing-reverse-500x500.jpg" width="325"></a></div>
   </div>
 
-</div>
 
-<div class="row">
   <div class="col-md-4" itemscope itemtype="http://schema.org/MusicAlbum">
     <h3>
       <a href="/soundcloud/simmer"><span itemprop="name">Simmer & Stir (Again)</span></a>
@@ -92,5 +82,4 @@ title = "Kern Ramble:Official Website - Soundcloud Music"
     <div><a href="/soundcloud/simmer"><img src="/images/simmer.png" width="325"></a></div> 
   </div>
 </div>
-
 

@@ -8,6 +8,12 @@ recordingz:
   - year: 2018
     source: soundcloud
     id: 316008196
+  - year: 2022
+    source: soundcloud
+    id: 1388764477
+  - year: 2022
+    source: soundcloud
+    id: 1388051785
   - year: 2020
     source: soundcloud
     id: 722481904

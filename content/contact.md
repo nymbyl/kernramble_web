@@ -8,7 +8,7 @@ title = "Kern Ramble:Official Website - Contact Information"
 <h2>Contact</h2>
 
 <div itemscope itemtype="http://schema.org/Person">
-  <div class="col-md-6" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+  <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
   <h3>Mailing Address</h3>
     <address>
     <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -26,12 +26,10 @@ title = "Kern Ramble:Official Website - Contact Information"
     </address>
   </div>
 
-  <div class="col-md-6">
   <h2>E-mail</h2>
     <div>
       <a href="mailto:kernramble@gmail.com" itemprop="email">kernramble@gmail.com</a>
     </div>
-  </div>
 
 </div>
 
