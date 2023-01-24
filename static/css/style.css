@@ -1,8 +1,32 @@
+html {
+  font-family: sans-serif;
+  font-feature-settings: normal;
+}
+
 body { background-color:#DCDCDC;}
 
 
-h1 { font-size: 135%; }
-h2 { font-size: 125%; }
-h3 { font-size: 115%; }
+h1 { font-size: 135%; font-weight: bold; }
+h2 { font-size: 125%; font-weight: bold; }
+h3 { font-size: 115%; font-weight: bold; }
+h4 { font-size: 105%; font-weight: bold; }
+h5 { font-size: 100%; font-weight: bold; }
+
 
 .list-group-item { background-color: #DCDCDC;}
+
+p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+ol {
+  list-style: decimal;
+  padding-left: 1em;
+}
+.soundcloud-list h3 {
+  font-size: 0.85em;
+}
+.youtube-list h3 {
+  font-size: 0.85em;
+}

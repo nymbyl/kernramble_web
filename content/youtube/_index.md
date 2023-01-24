@@ -18,7 +18,7 @@ title = "Kern Ramble:Official Website - YouTube Videos"
 
 <h3>Archives</h3>
 
-<div class="grid grid-cols-3 gap-4">  
+<div class="grid grid-cols-3 gap-4 youtube-list">  
   <div itemscope itemtype="http://schema.org/MusicPlaylist">
     <h3><a href="/youtube/crossing_third"><span itemprop="name">Crossing the Fog Line (3rd time) - Alt Mix</span></a></h3>
     <div><a href="/youtube/crossing_third"><img src="/images/fogline_cover.png" width="325"></a></div>

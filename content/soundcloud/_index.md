@@ -7,7 +7,7 @@ title = "Kern Ramble:Official Website - Soundcloud Music"
 
 <h2>Soundcloud Music</h2>
 
-<div class="grid grid-cols-3 gap-4">  
+<div class="grid grid-cols-3 gap-4 soundcloud-list">  
   <div class="flex-wrap basis-1/3" itemscope itemtype="http://schema.org/MusicAlbum">
     <h3>
       <a href="/soundcloud/pitch"><span itemprop="name">Pitch: A Morality Play</span></a>

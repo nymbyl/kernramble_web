@@ -11,9 +11,9 @@
     <meta name="Description" content="Kern Ramble: Official Website" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
     <link href="/css/output.css" rel="stylesheet" type="text/css" media="screen" />
-
+    <link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+ 
     <title>{{ .Title }}</title>
 
   </head>
@@ -35,7 +35,7 @@
   </div>
 
 
-  <div id="content" class="prose prose-sm">
+  <div id="content">
     {{- block "content" . }}{{- end }}
   </div><!-- end content -->
   </div><!-- end container -->
