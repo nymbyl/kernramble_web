@@ -1,7 +1,7 @@
 +++
 date = "2021-10-05T00:00:00-05:00"
 draft = false
-title = "Kern Ramble:Official Website - Narrative Song-Cycle"
+title = "Kern Ramble:Official Website - About and the Narrative Song-Cycle"
 
 +++
 
@@ -11,11 +11,17 @@ It could also be a place, a gathering, or - as the case may be - a road
 I have generally been writing music and recording songs since 1988.  Although I wrote some 
 songs from 1982-1987 - I've lost all those recordings and forgotten them
 
-## Recording
+## Recordings
 
 I've cataloged all the songs I do have recorded here on this site, regardless of the recording quality. 
 Some of them were recording on old Tascam 4-tracks, but I've long since lost the original tapes.  So
 they are degraded mixes, but all I have
+
+## Albums
+
+I tend to write songs in albums, or records, as opposed to individual songs.  Sometimes I re-record
+these as compositions.  I detail the history of these in the 
+<a class="underline" href="/albums/">albums section</a>
 
 ## Narrative Song-Cycle
 
@@ -123,7 +129,7 @@ The story outline
 
 1. It's Freezing
 
-   He is stationed in Alaska, World War II - thinks of Eloise - cold life - low station in the world
+   He is stationed in Alaska, World War II - thinks of Eloise - cold life - low station in the world. It is within the realm of possiblities that all that follows is a vision as he dies in the cold
 
 2. Being a Proposal of Marriage
 
@@ -163,7 +169,7 @@ The story outline
 
 11. Hit the Paydirt
 
-    The protagonist finds gold - after many years of seaarching - and thinks he'll be rich, all problems solved
+    The protagonist finds gold - after many years of searching - and thinks he'll be rich, all problems solved
 
 12. Misbegotten Thief
 
