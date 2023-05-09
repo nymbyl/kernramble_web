@@ -21,9 +21,12 @@ title: "Kern Ramble:Official Website"
 
 <div class="flex-1 w-50">
 <h3>Sample Music</h3>
-<div style="left: 0; width: 100%; height: 80px; position: relative;"><iframe src="https://open.spotify.com/embed/track/700lU5iMYZtzp5bElKS75C?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
-<div style="left: 0; width: 100%; height: 80px; position: relative;"><iframe src="https://open.spotify.com/embed/track/3KnrEdRY4EOQw0PG0qmV4Z?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/772091377&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kernramble" title="Kern Ramble" target="_blank" style="color: #cccccc; text-decoration: none;">Kern Ramble</a> · <a href="https://soundcloud.com/kernramble/trampoline-song-from-1995" title="Trampoline (song written in 1995)" target="_blank" style="color: #cccccc; text-decoration: none;">Trampoline (song written in 1995)</a></div>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1189562551&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kernramble" title="Kern Ramble" target="_blank" style="color: #cccccc; text-decoration: none;">Kern Ramble</a> · <a href="https://soundcloud.com/kernramble/days-of-make-believe-take-1" title="Days of Make-Believe (demo - take #1)" target="_blank" style="color: #cccccc; text-decoration: none;">Days of Make-Believe (demo - take #1)</a></div>
+
+
 
 </div>
 </div>
