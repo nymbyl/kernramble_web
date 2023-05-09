@@ -394,26 +394,23 @@ windows into an underlying story
 
 ## 2022-23
 
-### Flowers Appear on the Hill (unfinished and un-pruned)
+### Flowers Appear on the Hill (unpublished)
 
+* Love the Love that Loves You
 * When I'm Ninety-Four
-* Hesitance
-* Life as a Tree
-* City Mouse, Country Mouse
+* My Life as a Tree
 * Old Tetanus
 * Rip Van Winkle
 * Box of Hope
-* Seventh Round
+* Hesitance
 * All That is Fleeting
 * They Grew Entwined
-* Childhood to Bird
 * Eyes Cost Centuries
-* Stupid in my Coffee
+* Childhood to Bird
 * Dorothea's Jar of Miserable Things
+* City Mouse, Country Mouse
 * Advice of Daedalus
-* Seagull and Crab
 * Without Electricity
-* Love the Love that Loves You
 * The Flowers on the Hill 
 
 to be continued ... (I don't know what's next)
