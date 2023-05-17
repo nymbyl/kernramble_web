@@ -10,14 +10,8 @@ recordingz:
     id: 491146467
   - year: 2014
     source: soundcloud
-    id: 126931825
-  - year: 2014
-    source: soundcloud
-    id: 100261838
-  - year: 2014
-    source: soundcloud
-    id: 135772626
- 
+    id: 126931825 
+
 ---
 
 **NOTE** song morphed from original composition, see [Carnaville](/catalog/carnaville)

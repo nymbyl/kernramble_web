@@ -11,4 +11,4 @@ recordingz:
 
 ---
 
-*NOTE* same song as [Welcome to Nashville](/catalog/welcome_to_nashville)
+*NOTE* same song as [Welcome to Nashville](/catalog/welcome-to-nashville)
