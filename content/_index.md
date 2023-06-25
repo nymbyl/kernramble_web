@@ -22,11 +22,10 @@ title: "Kern Ramble:Official Website"
 <div class="flex-none md:flex-1 w-50">
 <h3>Sample Music</h3>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2534736214/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=545999397/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/pitch-a-morality-play">Pitch: A Morality Play by Kern Ramble</a></iframe>
-
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2534736214/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2145242595/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/pitch-a-morality-play">Pitch: A Morality Play by Kern Ramble</a></iframe>
 <br/>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2534736214/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2145242595/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/pitch-a-morality-play">Pitch: A Morality Play by Kern Ramble</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3051089774/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2777555041/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/crossing-the-fogline-into-2022">Crossing the Fogline (into 2022) by Kern Ramble</a></iframe>
 
 <br/>
 
