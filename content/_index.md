@@ -40,11 +40,8 @@ title: "Kern Ramble:Official Website"
 <hr/>
 <div class="flex">
   <ul class="list-group">       
-      <li id="latest" class="list-group-item">
-        <a class="hover:bg-slate-200" href="/latest" alt="Latest">Latest Recordings</a>
-      </li>
-      <li id="store" class="list-group-item">
-        <a class="hover:bg-slate-200" href="/youtube/" alt="Store">YouTube Music</a>
+      <li id="youtube" class="list-group-item">
+        <a class="hover:bg-slate-200" href="/youtube/" alt="YouTube">YouTube Music</a>
       </li>
       <li id="contact" class="list-group-item">
         <a class="hover:bg-slate-200" href="/contact" alt="Contact">Contact Info</a>
