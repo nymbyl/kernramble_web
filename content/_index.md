@@ -12,7 +12,7 @@ title: "Kern Ramble:Official Website"
 {{< rawhtml >}}
 <div class="flex flex-col md:flex-row">
 
-<div class="flex-none md:flex2 w-50" itemscope itemtype="http://schema.org/MusicGroup">
+<div class="flex-none md:flex-1 w-50" itemscope itemtype="http://schema.org/MusicGroup">
   <div itemprop="name" class="hidden">Kern Ramble</div>
   <img src="/images/kern_picture2.jpg" alt="Picture of Kern Ramble" 
    style="border-radius: 8px; max-width:85%; height: auto;">
