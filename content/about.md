@@ -16,14 +16,9 @@ It could also be a place, a gathering, a road, or a path
 I have generally been writing music and recording songs since 1988.  Although I wrote some 
 songs from 1982-1987 - I've lost all those recordings and forgotten them
 
-## This site
-
-I've tried to <a href="/catalog">catalog</a> all the songs I've written here over the years - with recordings (when available)
-whether solo, or in collaboration with others.  The recording quality varies
-
 ## The Recordings
 
-I've cataloged all the songs I do have recorded here on this site, regardless of the recording quality. 
+I've <a href="/catalog">cataloged</a> all the songs I do have recorded here on this site, regardless of the recording quality. 
 Some of them were recording on old Tascam 4-tracks, but I've long since lost the original tapes.  So
 they are degraded mixes, but all I have
 
