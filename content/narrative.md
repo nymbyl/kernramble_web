@@ -79,11 +79,11 @@ The story outline
 
 10. You Can Disappear
 
-    Our hero comes back to the populated world to change things. It is a dangerous place for him because the world is is a state of much surveillance (mirroring the warning in the first song). The heroine offers him a place to hide
+    Our hero comes back to the populated world to change things. It is a dangerous place for him because the world is is a state of much surveillance (mirroring the warning in the first song). The heroine offers him a place to hide.  She is more capable then he is, and possibly more mentally stable
 
 11. Like Stained Glass
 
-    He realizes she (his love) is miserable, sad - in a state of post traumatic stress.  There is not much he can do.  In a way he is the same way though.  He just breaks in different ways
+    This is meant to be ambiguous.  Does he realize she (his love) is miserable, sad and in a state of post traumatic stress?  Or is he the one that is broken? After all he is the one that wants to change an unchanging world.  But she would rather he not destroy himself
 
 12. Assassins or Thieves
 
@@ -95,7 +95,7 @@ The story outline
 
 14. I'm Finished? 
 
-    He does accomplish the task, but is sentenced to death because of it - and in that sense, is defeated. But still lives on after death. Although it is feasible he did something violent, I would not think of the character as a violent person to be condemned.  It is the fates
+    He does accomplish the task, but is sentenced to death because of it - and in that sense, is defeated. But still lives on after death. Although it is feasible he did something violent, I would not think of the character as a violent person to be condemned.  It is the fates.  She is all that is left to remember him
 
 
 ### Life of a Tobacco Fiend
@@ -158,7 +158,7 @@ The story outline
 
 13. You're My Redemption
 
-    The son tries to bury the hero alive (kill, make disappear) so he has free claim to the money.  The heroine makes an appearance to save day? or is it just a dream - it's unclear.  Our hero soul is saved - at the last second.  He has prepared but not been ready
+    The son tries to bury the hero alive (kill, make disappear) so he has free claim to the money.  The heroine makes an appearance to save day? or is it just a dream - it's unclear.  Our hero soul is saved - at the last second.  He has prepared but not been ready.  She had redeemed herself in a way too (as a side character).  And forgiveness is a thing
 
 14. Eventually, it Goes
    
@@ -238,6 +238,21 @@ The story outline
 
 16. Small Room
 
-    She is still in asylum - misses him - trying to piece together what happened.  She knows he has died.  Perhaps he really killed himself.  She has charitable thoughts of him.  She will eventually die there in a fire.  And she knows that.  But is a nice place, where she can paint - it's simple, uncluttered [female]
+    She is still in asylum - misses him - trying to piece together what happened.  She knows he has died.  Perhaps he really killed himself.  She has charitable thoughts of him.  She will eventually die there in a fire.  And she knows that.  But is a nice place, where she can paint - it's simple, uncluttered. It turns out she may be the one more coherent mentally, in the end [female]
+
+
+## Final Thoughts
+
+Even though each of the three albums listed above started as three wholly separate stories, they end up almost
+being a re-telling of the same story.  And it's a universal story told many other times by many other people.  
+Is it the hero's journey? I'm not sure.  It still feels like different thoughts and different people to me 
+
+Also, Even though they each have aspects of a love-story - I think of it more in a medieval sense of a love-story that is 
+describing allegorical forces - represented by corporeal beings.  The same way a marriage can be a physical manifestation
+of spiritual concepts. Both can be true or real at the same time. Maybe that's a crazy idea though
+
+## Future
+
+Lately I've gone back to a more thematic approach to albums.  After all, a song can be a story in itself
 
 
