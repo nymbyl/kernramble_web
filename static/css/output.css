@@ -578,10 +578,6 @@ video {
   display: none;
 }
 
-.max-w-full {
-  max-width: 100%;
-}
-
 .flex-none {
   flex: none;
 }
@@ -631,11 +627,6 @@ video {
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
-}
-
-.py-4 {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
 }
 
 .py-2 {
