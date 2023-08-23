@@ -11,6 +11,15 @@ Original folk-rock-country music, with an eye toward the 3:00 song
 The name "Kern Ramble" could be a person.  You might imagine someone that wanders from town to town. 
 It could also be a place, a gathering, a road, or a path
 
+
+  <div class="flex-none md:flex-1 w-50" itemscope itemtype="http://schema.org/MusicGroup">
+    <div itemprop="name" class="hidden">Kern Ramble</div>
+      <img src="/images/kern_picture2.jpg" alt="Picture of Kern Ramble" 
+       style="border-radius: 8px; max-width:85%; height: auto;">
+      <p class="credit">Photo: Kathy Peticolas</p>
+    </div>
+  </div>
+
 ## Background
 
 I have generally been writing music and recording songs since 1988.  Although I wrote some 

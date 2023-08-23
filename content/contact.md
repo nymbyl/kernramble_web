@@ -9,22 +9,6 @@ title = "Kern Ramble:Official Website - Contact Information"
 
 <div itemscope itemtype="http://schema.org/Person">
   <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-  <h3>Mailing Address</h3>
-    <address>
-    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-      <span itemprop="name">
-      Kern Ramble <br/>
-      c/o Robert Nelson <br/>
-      </span>
-      <span itemprop="streetAddress">
-        503 Morgan Creek Rd. <br/>
-      </span>
-      <span itemprop="addressLocality">Chapel Hill</span>,
-      <span itemprop="addressRegion">NC</span>
-      <span itemprop="postalCode">27517</span>
-    </div>
-    </address>
-  </div>
 
   <h2>E-mail</h2>
     <div>
