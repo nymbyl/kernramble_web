@@ -1,4 +1,5 @@
-
 ## Events
 
-None to report at this time
+# 2023-08-29
+
+band practice
