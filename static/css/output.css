@@ -578,6 +578,10 @@ video {
   display: none;
 }
 
+.max-w-\[125\%\] {
+  max-width: 125%;
+}
+
 .flex-1 {
   flex: 1 1 0%;
 }
@@ -737,6 +741,10 @@ video {
 }
 
 @media (min-width: 640px) {
+  .sm\:max-w-\[125\%\] {
+    max-width: 125%;
+  }
+
   .sm\:px-12 {
     padding-left: 3rem;
     padding-right: 3rem;
