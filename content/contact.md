@@ -15,5 +15,10 @@ title = "Kern Ramble:Official Website - Contact Information"
       <a href="mailto:kernramble@gmail.com" itemprop="email">kernramble@gmail.com</a>
     </div>
 
+  <h2>Phone</h2>
+   <div>
+     <a href="tel:+19194485384" itemprop="phone">919-448-5384</a>
+   </div>
+ 
 </div>
 

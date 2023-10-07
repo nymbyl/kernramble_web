@@ -13,8 +13,10 @@ title: "Kern Ramble:Official Website"
 <div class="flex flex-col md:flex-row">
 
   <div class="flex-none md:flex-1 w-100">
-  <h3 id="sample" class="pb-6">Sample Music</h3>
+  <h3 id="sample" class="pb-6">Live Recordings</h3>
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2286290116/size=small/bgcol=ffffff/linkcol=0687f5/track=2567268543/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/2023-live-recordings">2023 - Live Recordings by Kern Ramble</a></iframe>
+<br/>
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2286290116/size=small/bgcol=ffffff/linkcol=0687f5/track=2941468749/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/2023-live-recordings">2023 - Live Recordings by Kern Ramble</a></iframe>
 
@@ -34,11 +36,20 @@ title: "Kern Ramble:Official Website"
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2286290116/size=small/bgcol=ffffff/linkcol=0687f5/track=3499936271/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/2023-live-recordings">2023 - Live Recordings by Kern Ramble</a></iframe>
 
 <br/>
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2286290116/size=small/bgcol=ffffff/linkcol=0687f5/track=4153188046/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/2023-live-recordings">2023 - Live Recordings by Kern Ramble</a></iframe>
+<br/>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2286290116/size=small/bgcol=ffffff/linkcol=0687f5/track=259345018/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/2023-live-recordings">2023 - Live Recordings by Kern Ramble</a></iframe>
+<br/>
+
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2286290116/size=small/bgcol=ffffff/linkcol=0687f5/track=3863944721/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/2023-live-recordings">2023 - Live Recordings by Kern Ramble</a></iframe>
 <br/>
+
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2286290116/size=small/bgcol=ffffff/linkcol=0687f5/track=1585122892/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/2023-live-recordings">2023 - Live Recordings by Kern Ramble</a></iframe>
 <br/>
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2286290116/size=small/bgcol=ffffff/linkcol=0687f5/track=1146109365/transparent=true/" seamless><a href="https://kernramble.bandcamp.com/album/2023-live-recordings">2023 - Live Recordings by Kern Ramble</a></iframe>
+<br/>
 
   </div>
 
