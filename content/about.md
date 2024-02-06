@@ -13,7 +13,7 @@ For booking contact [kernramble\@gmail.com](mailto:kernramble@gmail.com)
 The name "Kern Ramble" could be a person.  You might imagine someone that wanders from town to town. 
 It could also be a place, a gathering, a road, or a path
 <div class="flex justify-center items-center pt-12">
- <img class="p-1" src="/images/KernRambleName.png" width="75%" alt="Kern Ramble distributable picture" />
+ <img class="p-1" src="/images/KernRambleName-smaller.png" width="75%" alt="Kern Ramble distributable picture" />
  </div>
 
   <div class="flex-none md:flex-1 w-50" itemscope itemtype="http://schema.org/MusicGroup">
@@ -25,7 +25,7 @@ It could also be a place, a gathering, a road, or a path
    <h2>Kern Ramble consists of (from left to right):</h2>
     <ul>
      <li>Herb Patterson (bass)</li>
-     <li>Rich Kamerman (drums+vocals)</li>
+     <li><a href="https://kamertunesblog.wordpress.com/">Rich Kamerman</a> (drums+vocals)</li>
      <li>Larry Seals (guitar+vocals)</li>
      <li><a href="/rob">Rob Nelson</a> (guitar+vocals)</li>
     </ul>     
