@@ -78,7 +78,7 @@ a:hover {
 }
 @media screen and ( min-width: 1024px ) {
   /* half-width cells for larger devices */
-  .carousel-cell { width: 100vh; }
+  .carousel-cell { height: 100vh; }
 }
 
 .bg{
