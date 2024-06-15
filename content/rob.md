@@ -1,15 +1,21 @@
 ## Rob Nelson
 
+<img class="p-1 max-w-[105%] lg:h-80" src="/images/kern_picture2.jpg" alt="picture of Rob Nelson" />
+
 ## Background
 
 I have generally been writing music and recording songs since 1988.  Although I wrote some 
-songs from 1982-1987 - I've lost all those recordings and forgotten them
+songs from 1982-1987 - I've lost all those recordings and forgotten them. In 2002 I started
+producing music under the name 'Kern Ramble'
 
 ## The Recordings
 
-I've <a href="/catalog">cataloged</a> all the songs I do have recorded here on this site, regardless of the recording quality. 
-Some of them were recording on old Tascam 4-tracks, but I've long since lost the original tapes.  So
-they are degraded mixes, but all I have
+I've <a href="/catalog">cataloged</a> all the songs I do have recorded here on this site, regardless 
+of the recording quality. Some of them were recording on old Tascam 4-tracks, but I've long since 
+lost the original tapes.  So they are degraded mixes, but all I have
+
+From 1992 to 2007 I wrote a lot of music for a band called <a href="https://walterklang.com">
+Walter Klang</a>
 
 ## The Albums
 

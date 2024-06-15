@@ -1,5 +1,9 @@
 ## Events
 
+# 07/26-07/27/2024
+
+Recording at <a href="https://nightsound.com/">Nightsound Studios</a>
+
 # 03/22/2024
 Show at Yonder!
  
@@ -8,11 +12,8 @@ Show at Yonder!
  </div>
 
 # 1/30/2024
-overdubs at NightSound
+Overdubs at <a href="https://nightsound.com/">NightSound Studios</a>
 
 # 1/19/2024
-recording at NightSound
-
-# 1/10/2024
-band practice
+Recording at <a href="https://nightsound.com/">NightSound Studios</a>
 
