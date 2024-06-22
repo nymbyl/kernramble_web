@@ -1,10 +1,13 @@
 ---
-title: Candle
-name: "Candle"
+title: Infinite Light
+name: "Infinite Light"
 year:  1994
-album: 
+album: Rare Afflictions and Remedies 
 composer: Rob Nelson
 recordingz:
+  - year: 2024
+    source: soundcloud
+    id: 1849629342
   - year: 2014
     source: soundcloud
     id: 104204818
@@ -15,3 +18,4 @@ recordingz:
 
 ---
 
+Called 'Candle' for a long-time
