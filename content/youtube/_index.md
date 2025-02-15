@@ -11,10 +11,9 @@ title = "Kern Ramble:Official Website - YouTube Videos"
 
 <div class="g-ytsubscribe" data-channel="kernramble" data-layout="default" data-count="default"></div>
 
-<h3>Latest</h3>
+<h3>Featured</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=KernRamble" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=7JgsyZtJg7OWDByn&amp;list=PLlxfuCp2_YP_IOCH0NuBTDOonDve3XST1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h3>Archives</h3>
 
