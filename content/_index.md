@@ -15,8 +15,8 @@ title: "Kern Ramble:Official Website"
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7MYsGJ7waGJNuJcENxWYkm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   </div>
   <div class="md:flex-1 pl-4">
-    <p>New EP 
-     <a href="https://fanlink.tv/vKdt">Water Wheel of Mystery</a> released 5/31/2024
+    <p>New LP 
+     <a href="https://fanlink.tv/vKdt">Water Wheel of Mystery</a> released 2/27/2025
     </p>
   </div>
 </div>
