@@ -15,8 +15,11 @@ title: "Kern Ramble:Official Website - Music"
    <h3 id="sample" class="pb-6">Latest Recordings</h3>
 
   <h3><span itemprop="name">Water Wheel of Mystery</span></h3>
-  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Qw5FWxiB7WE?si=DODUyJ_3c5iObuiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
+<div class="video-container"> 
+  <iframe src="https://www.youtube.com/embed/Qw5FWxiB7WE?si=DODUyJ_3c5iObuiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
   <h3 id="sample" class="pb-6">Live Recordings</h3>
 
@@ -40,3 +43,5 @@ title: "Kern Ramble:Official Website - Music"
 <hr/>
 
 {{< /rawhtml >}}
+
+

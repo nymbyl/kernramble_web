@@ -23,12 +23,14 @@
  <body class="bg-sky-100/10">
   <div id="container" class="md:container md:mx-auto px-4">
     
-   <div id="header" class="flex pb-4 bg-amber-100 bg-opacity-100 flex-nowrap">
+   <div id="header" class="flex pb-4 bg-opacity-100 flex-nowrap">
      <h1 id="logo" class="flex-auto">
-        <div class="justify-center sm:px-12">
+        <div class="justify-center">
            <a href="/">
-             <!-- <img class="p-1 max-w-[105%] lg:h-80" src="/images/kern-ramble-text-sketch-small.png" alt="Kern Ramble log" /> -->
-             <img class="p-1 max-w-[105%] lg:h-80" src="/images/new-name-smaller.png" alt="Kern Ramble logo" />
+             <img class="p-1 h-16 w-auto md:h-18 lg:h-18" src="/images/kern-logo.jpg" alt="Kern Ramble logo" />
+             
+             <!--<img class="p-1 max-w-[105%] lg:h-80" src="/images/kern-ramble-text-sketch-small.png" alt="Kern Ramble log" />-->
+             <!--<img class="p-1 max-w-[105%] lg:h-80" src="/images/new-name-smaller.png" alt="Kern Ramble logo" />-->
 
            </a>
         </div>
@@ -39,9 +41,11 @@
         <li class="flex-1 p-4">
           <a href="/about">About</a>
         </li>
+        <!--
         <li class="flex-1 p-4">
            <a href="/events">Events</a>
         </li>
+        -->
         <li class="flex-1 p-4">
           <a href="/music">Music</a>
         </li>
@@ -50,7 +54,7 @@
     
    </div><!-- end header -->
 
-   <div id="content" class="p-4 mt-4 bg-amber-100">
+   <div id="content" class="p-4 mt-4">
      {{- block "content" . }}{{- end }}
    </div><!-- end content -->
   </div><!-- end container -->
