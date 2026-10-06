@@ -9,12 +9,24 @@ title: "Kern Ramble:Official Website"
 }
 </script>
 
+{{< rawhtml >}}
 
-<a href="/youtube/" alt="Kern Ramble YouTube channel">
-<img class="w-full md:w-1/2 h-auto object-cover" src="/images/kern_picture2.jpg" alt="picture of Rob Nelson (a.k.a. Kern Ramble)"/>
-</a>
+<div class="flex flex-col lg:flex-row items-start gap-6">
+  
+  <div class="w-full lg:w-1/2 md:w-1/2">
+    <img class="w-full h-auto object-cover rounded-lg" src="/images/kern_picture2.jpg" alt="picture of Rob Nelson (a.k.a. Kern Ramble)" />
+  </div>
+ 
+  <!-- Smaller Text Column (40% width on large screens) -->
+  <div class="w-full lg:w-1/2 md:w-1/2">
+    <h2><a href="/youtube/" alt="Kern Ramble YouTube channel">YouTube</a></h2>
 
-<a href="/youtube/" alt="Kern Ramble YouTube channel">YouTube
-</a>
+    <p class="mt-2 text-gray-600">A band from the 60s you've rediscovered</p>
+    <p class="mt-2 text-gray-600">Looking out the window of a train as artifacts and structures pass by</p>
+    <p class="mt-2 text-gray-600">Songs you haven't heard before, that sound familiar</p>
+  </div>
 
 
+</div>
+
+{{< /rawhtml >}}
