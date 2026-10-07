@@ -22,7 +22,7 @@ title: "Kern Ramble:Official Website"
   <!-- Smaller Text Column (40% width on large screens) -->
   <div class="w-full lg:w-1/2 md:w-1/2">
     <p class="mt-2 text-gray-600">A band from the 60s you've rediscovered</p>
-    <p class="mt-2 text-gray-600">Looking out the window of a train as artifacts and structures pass by</p>
+    <p class="mt-2 text-gray-600">Looking out the window of a moving train as artifacts and structures pass you by</p>
     <p class="mt-2 text-gray-600">Songs you haven't heard before, that sound familiar</p>
       
   </div>
